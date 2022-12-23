@@ -1,0 +1,10 @@
+E;Primeiro Pedido;true;Pet Shop LTDA;124558392;petshop@gmail.com;RS
+B;Cachorro;15.90;Bolinha Azul;Borracha;8x8x8
+R;Gato;146;Ração Prescrita Gatos Castrados;1;true
+M;Cachorro;27.90;Orgrax-3;Avert;Suplemento;30 COMP
+M;Cachorro;27.90;Orgrax-3;Avert;Suplemento
+R;Cachorro;146;Ração Crescimento Saudável;3;false
+R;Gato;250;Ração Prescrita Controle de Peso;6;true
+B;Cachorro;15.90;Bolinha Azul;Borracha
+B;Cachorro;27.90;Macaco Pelúcia;Pelúcia;12x10x8
+M;Gato;59.90;Globion Pet;Nutripharme;Suplemento;30 COMP
